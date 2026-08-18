@@ -7,6 +7,8 @@ rather than copy-paste.
 
 **Live demo:** (add your quote-app load balancer URL here)
 
+![Architecture Diagram](architecture.svg)
+
 ---
 
 ## What this app does
